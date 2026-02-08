@@ -1,21 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I'm Dhruv
 
 <!--
-**dhruvg22/dhruvg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**dhruvg22/dhruvg22** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: **your@email.com**
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-gupta-53295a256 ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Dhruv Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvgupta0422@gmail.com) 
 
 # 💻 Tech Stack:
